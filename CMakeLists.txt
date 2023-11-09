@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.16.3)
+project(Cusstom-OCR)
+set(CMAKE_CXX_STANDARD 17)
+add_subdirectory(src/DataPreparing)
+add_subdirectory(src/TessReading)
+add_subdirectory(src/DrawingContour)
+add_subdirectory(include/unitext)

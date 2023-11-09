@@ -1,0 +1,4 @@
+python3 == 3.8.10
+opencv-python == 4.8.0.76
+numpy == 1.17.4
+argparse == 1.1
