@@ -208,5 +208,5 @@ Test the model performance by let tesseract read all test file that have splitte
 |INVERT_IMAGE|-v|False|In some case, there is some image that have dark background and light character(for betterperformancr I'm very suggest to set INVERT_IMAGE= True)|
 
 <p align="center">
-![SWProjectDiagram](https://github.com/user-attachments/assets/a1c14748-8bd7-4168-9f74-5edce146eb19)
+    <img src="https://github.com/user-attachments/assets/a1c14748-8bd7-4168-9f74-5edce146eb19">
 </p>
